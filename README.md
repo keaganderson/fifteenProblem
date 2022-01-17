@@ -1,5 +1,5 @@
 # Fifteen Sliding Problem
-An Artificial Intelligence that solves Fifteen Sliding Problems using a choice of various search algorithms.
+An Artificial Intelligence that solves Sliding Problems of size 16 using a choice of various search algorithms.
 
 # Algorithms
 There is an option of Breadth First Search (BFS), Depth First Search (DFS), Greedy Breadth First Search (GBFS), Depth Limited Search (DLS), and AStar

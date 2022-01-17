@@ -1,0 +1,28 @@
+Outputs for puzzle 1 ("123456789ABC DFE"):
+BFS: 3, 40, 17, 24
+DFS: (Timed out / Ran out of Memory)
+GBFS h1: 3, 7, 3, 5
+GBFS h2: 3, 7, 3, 5
+AStar h1: 3, 7, 3, 5
+AStar h2: 3, 7, 3, 5
+DLS 5: 3, 95, 45, 8
+DLS 3: 3, 21, 9, 5
+DLS 1: -1, 0, 0, 0 
+
+Outputs for puzzle 2 ("12 467385ABC9DFE"):
+BFS: 8, 1610, 769, 842
+DFS: (Timed out / Ran out of Memory)
+GBFS h1: 8, 19, 8, 12
+GBFS h2: 8, 19, 8, 12
+AStar h1: 16, 309, 142, 168
+AStar h2: 16, 173, 86, 88
+DLS 10: 10, 683, 327, 15
+DLS 8: 8, 205, 93, 12
+DLS 1: -1, 0, 0, 0 
+
+Time Complexities:
+BFS: O(N^2)
+DFS: O(N)
+GBFS: O(NlogN)
+AStar: O(NlogN)
+DLS: O(limit^2)

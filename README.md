@@ -12,7 +12,9 @@ There is an option of Breadth First Search (BFS), Depth First Search (DFS), Gree
 Run the sliding program with the puzzle as the first parameter in parethesis and the search algorithm as the second parameter. Then an optional parameter as the third if the search algorithm requires it.
 
 Ex. 1: "123456789ABC DFE" BFS
+
 Ex. 2: "123456789ABC DFE" GBFS h1
+
 Ex. 3: "123456789ABC DFE" DLS 3
 
 # Solution

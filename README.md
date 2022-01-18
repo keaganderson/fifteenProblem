@@ -5,6 +5,7 @@ An Artificial Intelligence that solves Sliding Problems of size 16 using a choic
 There is an option of Breadth First Search (BFS), Depth First Search (DFS), Greedy Breadth First Search (GBFS), Depth Limited Search (DLS), and AStar
 
 *Depth Limited Search takes a limit parameter
+
 *Greedy and Astar takes a heuristic parameter
 
 # Instructions
